@@ -2,7 +2,7 @@
 
 ## 💻 Codeium
 
-[![autocomplete](https://codeium.com/badges/user/strongly-protective-condor-58602/autocomplete)](https://codeium.com/profile/strongly-protective-condor-58602)
+[![autocomplete](https://codeium.com/badges/user/joris-bgl/autocomplete)](https://codeium.com/profile/joris-bgl)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Joris BEGEL) 

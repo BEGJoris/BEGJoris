@@ -1,4 +1,3 @@
-# 💫 About Me:
 👋 Salut, je suis Joris BEGEL ! Développeur passionné, curieux et toujours prêt à relever de nouveaux défis.<br>🌐 Je construis des applications, contribue à des projets open source et j'apprends constamment de nouvelles technologies.
 
 ## 💻 Codeium
